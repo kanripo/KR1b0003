@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.623001
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB09n0686-015尚書正義-卷十五.
 <pb:KR1b0003_SBCK_015-1a>¶
 尚書正義卷第十五¶
 　　　　國子祭酒上護軍曲阜縣開國子臣孔穎達奉¶
@@ -513,4 +517,3 @@
 辟(扶亦/反)下長念其刑辟不當加無罪也¶
 尚書正義卷第十五¶
 　　　　　　　　　　　　　　　計九千一百三十二字¶
-

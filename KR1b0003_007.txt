@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:39.179463
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB09n0686-007尚書正義-卷七.
 <pb:KR1b0003_SBCK_007-1a>¶
 記夏本紀稱啓立有扈氏不服故伐之蓋由自堯舜受禪相承¶
 啓獨見繼父以此不服故云夏啓嗣禹立伐有扈之罪言繼立¶
@@ -498,4 +502,3 @@
 傳文也¶
 尚書正義卷第七　計九千三百四十三字¶
 <pb:KR1b0003_SBCK_007-16b>¶
-

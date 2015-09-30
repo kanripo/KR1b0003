@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.672069
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB09n0686-016尚書正義-卷十六.
 <pb:KR1b0003_SBCK_016-1a>¶
 尚書正義卷第十六¶
 　　　　國子祭酒上護軍曲阜縣開國子臣孔穎達奉¶
@@ -732,4 +736,3 @@
 復言曰也¶
 尚書正義卷第十六¶
 　　　　　　　　　　　　　計一萬三千一百七十七字¶
-

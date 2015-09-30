@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.335819
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB09n0686-010尚書正義-卷十.
 <pb:KR1b0003_SBCK_010-1a>¶
 尚書正義卷第十¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔穎達奉¶
@@ -796,4 +800,3 @@
 職手無所營下垂其拱故美其垂拱而天下治也¶
 尚書正義卷第十¶
 　　　　　　　　　　　　　計一萬四千六百一十三字¶
-

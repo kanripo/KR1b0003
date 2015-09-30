@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:38.824703
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0686-001尚書正義-卷一.
 <pb:KR1b0003_SBCK_001-1a>¶
 尚書正義卷第一¶
 　　　　國子祭酒上護軍曲阜縣開國子臣孔穎逹等奉¶
@@ -521,4 +525,3 @@
 我哉¶
 尚書正義卷第一¶
 　　　　　　　　　　　　　　計一萬三千一百八十六字¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:39.275681
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB09n0686-009尚書正義-卷九.
 <pb:KR1b0003_SBCK_009-1a>¶
 尚書正義卷第九¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔頴達奉¶
@@ -1051,4 +1055,3 @@
 尚書正義卷第九¶
 　　　　　　　　　　　　計一萬八千五百七十八字¶
 <pb:KR1b0003_SBCK_009-34a>¶
-

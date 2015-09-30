@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:39.113869
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB09n0686-006尚書正義-卷六.
 <pb:KR1b0003_SBCK_006-1a>¶
 尚書正義卷第六¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔頴達奉¶
@@ -1153,4 +1157,3 @@
 尚書正義卷第六¶
 　　　　　　　　　　　　計二萬一千二百六字¶
 <pb:KR1b0003_SBCK_006-37a>¶
-

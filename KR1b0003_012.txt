@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.448475
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB09n0686-012尚書正義-卷十二.
 <pb:KR1b0003_SBCK_012-1a>¶
 尚書正義卷第十二¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔頴達奉¶
@@ -858,4 +862,3 @@
 　　　　　　　　　　　　　計一萬五千五百一十六字¶
 <pb:KR1b0003_SBCK_012-28a>¶
 <pb:KR1b0003_SBCK_012-29a>¶
-

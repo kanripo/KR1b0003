@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.768979
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB09n0686-018尚書正義-卷十八.
 <pb:KR1b0003_SBCK_018-1a>¶
 禮文皆伯尊於牧牧主一州明伯是中分天下者也禮言職方¶
 是各主一方也此二伯即以三公爲之隱五年公羊傳云諸公¶
@@ -815,4 +819,3 @@
 正義曰美於前人之政謂光前人之政所以勉勵畢公¶
 尚書正義卷第一八¶
 　　　　　　　　　　　　　計一萬五千六百九十五字¶
-

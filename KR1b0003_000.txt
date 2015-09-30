@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:38.789752
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB09n0686-000尚書正義-序.
 <pb:KR1b0003_SBCK_000-1a>¶
 　　維等言臣等元奉¶
 　勑校勘五經正義今巳見有成堪雕印版行用者伏以三才分¶
@@ -97,5 +101,6 @@
 尉臣隨德素儒林郎守四門助敎雲&KR0016;尉臣王士雄等對¶
 勑使趙&KR0042;智覆更詳審爲之正義凡二十卷庶對揚於聖範冀¶
 有益於童稚略陳其事敘之云爾¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB09n0687-000尚書正義.xml-尚書正義.
 <pb:KR1b0003_SBCK_000-1a>¶
-

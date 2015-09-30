@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:38.872258
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0686-002尚書正義-卷二.
 <pb:KR1b0003_SBCK_002-1a>¶
 尚書正義卷第二¶
 　　　　國子祭酒上護軍曲阜縣開國子臣孔頴達奉¶
@@ -1021,4 +1025,3 @@
 尚書正義卷第二¶
 　　　　　　　　　　　　計二萬一千九十三字¶
 <pb:KR1b0003_SBCK_002-33a>¶
-

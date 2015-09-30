@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.391885
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB09n0686-011尚書正義-卷十一.
 <pb:KR1b0003_SBCK_011-1a>¶
 尚書正義卷第十一¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔頴達奉¶
@@ -904,4 +908,3 @@
 王室杜預云謂明德之分器也是諸侯各有分也亡¶
 尚書正義卷第十一¶
 　　　　　　　　　　　　計一萬七千七百九字¶
-

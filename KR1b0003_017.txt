@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:48
+#+DATE: 2015-09-12 00:39:39.718974
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB09n0686-017尚書正義-卷十七.
 <pb:KR1b0003_SBCK_017-1a>¶
 尚書正義卷第十七¶
 　　　　國子祭酒上護軍曲阜縣開國子臣孔穎達¶
@@ -727,4 +731,3 @@
 尚書正義卷第十七¶
 　　　　　　　　　　　　　　　　計一萬三千四百五十一字¶
 <pb:KR1b0003_SBCK_017-24a>¶
-

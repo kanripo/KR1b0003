@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書正義
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-12 00:39:38.945284
+#+PROPERTY: ID KR1b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0686-003尚書正義-卷三.
 <pb:KR1b0003_SBCK_003-1a>¶
 尚書正義卷第三¶
 　　　　國子祭酒上護軍曲阜縣開國子(臣)孔穎達奉¶
@@ -1072,4 +1076,3 @@
 尚書正義卷第三¶
 　　　　　　　　　　　　計二萬八千六十四字¶
 <pb:KR1b0003_SBCK_003-34b>¶
-
